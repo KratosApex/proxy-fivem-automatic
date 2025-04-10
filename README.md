@@ -1,7 +1,3 @@
-Perfeito! Aqui está um modelo de conteúdo para o seu `README.md`, pronto para colar no repositório [`proxy-fivem-automatic`](https://github.com/KratosApex/proxy-fivem-automatic):
-
----
-
 # Proxy FiveM Automatic Installer
 
 🚀 Script simples e automatizado para configurar uma **proxy com cache** usando **Nginx** para servidores **FiveM**.
