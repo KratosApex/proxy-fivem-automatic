@@ -71,4 +71,3 @@ Repositório oficial: [github.com/KratosApex/proxy-fivem-automatic](https://gith
 
 ---
 
-Se quiser posso também gerar um badge bonito com status (tipo versão ou build), traduzir para inglês ou criar GIF demonstrando. Só avisar!
